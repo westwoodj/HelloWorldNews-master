@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1057220597842",
+    "project_id": "hello-world-47be2",
+    "storage_bucket": "hello-world-47be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057220597842:android:a40df5dc50ad0654f1678b",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057220597842-9kfu0m4782saerkkitcgcb7pusn7e2hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMK3zOy9Kz1W8l7wYEqLMXiPAfZZ6XtEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057220597842-9kfu0m4782saerkkitcgcb7pusn7e2hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057220597842:android:3d97c04a6a945bbcf1678b",
+        "android_client_info": {
+          "package_name": "com.hacklabs.helloworld.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057220597842-9kfu0m4782saerkkitcgcb7pusn7e2hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMK3zOy9Kz1W8l7wYEqLMXiPAfZZ6XtEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057220597842-9kfu0m4782saerkkitcgcb7pusn7e2hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
